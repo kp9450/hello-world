@@ -1,3 +1,3 @@
 # hello-world
-Just another repository
-Go Kupe.You can make it.
+Go Kupe.
+Yes.You can make it.
